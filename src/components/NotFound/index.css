@@ -1,0 +1,22 @@
+.notFound-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.error-image {
+  width: 23%;
+}
+.heading {
+  color: #475569;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.desc {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: 500;
+}
